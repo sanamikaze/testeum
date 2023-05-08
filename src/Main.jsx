@@ -73,14 +73,14 @@ export default function Main() {
               {!id ? (
                 <>
                   <p className="font-semibold" align="center">"
-                    <b>Yeah! Você aceitou casar comigo e ser minha esposa!"</b> - Danilo
+                    <b>Yeah! Você aceitou casar comigo e ser minha esposa!"</b> - m.
                   </p>
 
                   <p align="center">Eu te amo, amor!</p>
 
                   <img src={health} alt="" width={200} />
 
-                  <p className="mt-10">Made with 🤍 by <a className="font-semibold text-red-300" href="http://t.me/sharongamer">@SharonGamer</a></p>
+                  <p className="mt-10"> forever, your moon 🤍 by <a className="font-semibold text-red-300" href="http://t.me/sharongamer">@SharonGamer</a></p>
                 </>
               ) : (
                 <>
