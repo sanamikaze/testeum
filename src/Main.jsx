@@ -77,10 +77,11 @@ export default function Main() {
                   </p>
 
                   <p align="center"> para isso você precisa estar em call de vídeo para receber algumas dicas!</p>
+             <p className="mt-10" href="https://t.me/URFOgame"> Para baixar clique aqui </p>
 
                   <img src={health} alt="" width={200} />
 
-                  <p className="mt-10"> forever, your moon 🤍 by <a className="font-semibold text-red-300" href="http://t.me/sharongamer">@SharonGamer</a></p>
+                  <p className="mt-10" > forever, your moon 🤍 by <a className="font-semibold text-red-300" href="http://t.me/sharongamer">@SharonGamer</a></p>
                 </>
               ) : (
                 <>
