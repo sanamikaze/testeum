@@ -24,7 +24,7 @@ export default function Main() {
     "Você está disposta a responder algumas perguntas?",
     "Você responderá com total sinceridade?",
     "Tem certeza de que deseja continuar?",
-    !question ? "Quer casar comigo? 💍" : question,
+    !question ? "Você jogaria URFO GAME?" : question,
   ]
 
   const handleYesAnswerButton = () => {
@@ -73,10 +73,10 @@ export default function Main() {
               {!id ? (
                 <>
                   <p className="font-semibold" align="center">"
-                    <b>Yeah! Você aceitou casar comigo e ser minha esposa!"</b> - m.
+                    <b>Yeah! Você aceitou jogar meu joguinho em comemoração aos 200 dias!"</b> - m.
                   </p>
 
-                  <p align="center">Eu te amo, amor!</p>
+                  <p align="center"> para isso você precisa estar em call de vídeo para receber algumas dicas!</p>
 
                   <img src={health} alt="" width={200} />
 
