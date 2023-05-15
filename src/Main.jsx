@@ -77,7 +77,7 @@ export default function Main() {
                   </p>
 
                   <p align="center"> para isso você precisa estar em call de vídeo para receber algumas dicas!</p>
-             <p className="mt-10" href="https://t.me/URFOgame"> Para baixar clique aqui </p>
+                  <a className="font-semibold text-red-300" href="https://t.me/URFOgame">Para baixar clique aqui</a></p>
 
                   <img src={health} alt="" width={200} />
 
